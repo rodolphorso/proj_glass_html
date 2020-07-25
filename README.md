@@ -1,2 +1,2 @@
 # proj_glass_html
- Projeto do curso em vídeo do professor Gustavo Guanabara em html e CSS3 do site curso em vídeo 
+ Projeto do *google glass* do **Curso de HTML e CSS3**, realizado no site do curso em vídeo em conjunto com o professor Gustavo Guanabara.
